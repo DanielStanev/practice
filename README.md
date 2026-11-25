@@ -83,3 +83,6 @@ git show origin/solutions:solutions/dynamic-programming/09_knapsack/knapsack.hpp
 
 Keep your own work on `main` (or your own branches) and never merge
 `solutions` into it.
+
+On this branch, `./solutions/check_solutions.sh` runs every test against the
+reference solutions in a temporary copy.
